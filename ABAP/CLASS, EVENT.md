@@ -144,3 +144,5 @@ B는 관심 있는 이벤트만 등록해서 처리
 * SET HANDLER = 누가 알림을 받을지 등록
 
 **이벤트 사용 목적 -> 객체 간 느슨한 결합(loose coupling), 즉 서로 직접적으로 연결되지 않고 상호작용 가능**
+
+참조 : https://abapta0903.tistory.com/
